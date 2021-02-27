@@ -17,7 +17,7 @@ Some choices were made that were probably not intended by the creators of the la
 - Classless stylesheet designed for markdown language
 - Advanced components: buttons, menus, cards, gallery...
 - Material Design theme
-- Progressive Enhancement: looks good on mobiles as well as PC
+- Progressive enhancement: looks good on mobiles as well as PC
 - Lightweight: only 3kb
 
 
@@ -28,15 +28,19 @@ Check out the [demo](https://bndp.github.io/beautiful-markdown).
 
 ## Install
 
-Import in your HTML:
+Get the file in any of the following ways.
+
+Include link in your HTML header:
 
     <link rel="stylesheet" href="https://unpkg.com/beautiful-markdown" />
 
-Import npm package
+Import npm package:
 
     $ npm install beautiful-markdown
 
-[GitHub](/)
+Clone git repository:
+
+    https://github.com/bndp/beautiful-markdown.git
 
 
 ## Usage
