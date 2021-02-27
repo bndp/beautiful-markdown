@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "scripts": {
     "start": "npx eleventy --input content --output docs --serve",
-    "build": "cleancss -o dist/beautiful-markdown.min.css src/beautiful-markdown.css && npx eleventy --input content --output docs",
+    "build": "cleancss -o beautiful-markdown.min.css src/beautiful-markdown.css && npx eleventy --input content --output docs",
     "release": "npx gh-release && npm publish"
   },
   "devDependencies": {
