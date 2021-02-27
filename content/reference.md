@@ -13,19 +13,7 @@ layout: base.njk
 
 # Reference guide
 
-#### Minimal (3kb) Material Design CSS library for Markdown.
-
-[GitHub](/)
-
-
-## 1. Usage
-
-Import in your HTML:
-
-    <link rel="stylesheet" href="https://unpkg.com/bfmd.min.css" />
-
-
-## 2. Typography
+## 1. Typography
 
 *Markdown Syntax:*
 
@@ -48,7 +36,8 @@ Paragraph text in **bold** and *italic*
 ###### Heading 6
 Paragraph text in **bold** and *italic*
 
-## 3. Link
+
+## 2. Link
 
 *Markdown Syntax:*
 
@@ -61,7 +50,7 @@ My favorite personal finance manager is [BASE·finance](https://base.finance).
 My favorite personal finance manager is [BASE·finance](https://base.finance).
 
 
-## 4. Image
+## 3. Image
 
 *Markdown Syntax:*
 
@@ -78,7 +67,7 @@ My favorite personal finance manager is [BASE·finance](https://base.finance).
 ![Tbourida Moroccan folklore fantasy by Houssain tork](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tbourida_Moroccan_folklore_fantasy.jpg)
 
 
-## 5. List
+## 4. List
 
 *Markdown Syntax:*
 
@@ -107,7 +96,7 @@ Unordered List
 - Third item
 
 
-## 6. Table
+## 5. Table
 
 *Markdown Syntax:*
 
@@ -126,7 +115,7 @@ Unordered List
 | Paragraph | Text  | 12.45   |
 
 
-## 7. Blockquote (Basic card)
+## 6. Blockquote (Basic card)
 
 *Markdown Syntax:*
 
@@ -144,7 +133,7 @@ Unordered List
 > Qui suivent, indolents compagnons de voyage,  
 > Le navire glissant sur les gouffres amers.
 
-## 8. Horizontal Rule
+## 7. Horizontal Rule
 
 *Markdown Syntax:*
 
@@ -157,7 +146,7 @@ Unordered List
 ---
 
 
-## 9. Code
+## 8. Code
 
 *Markdown Syntax:*
 
