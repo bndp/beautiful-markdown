@@ -30,15 +30,15 @@ Check out the [demo](https://bndp.github.io/beautiful-markdown).
 
 Get the file in any of the following ways.
 
-Include link in your HTML header:
+Include a link in your HTML header:
 
     <link rel="stylesheet" href="https://unpkg.com/beautiful-markdown" />
 
-Import npm package:
+Import the npm package:
 
     $ npm install beautiful-markdown
 
-Clone git repository:
+Clone the following git repository:
 
     https://github.com/bndp/beautiful-markdown.git
 
