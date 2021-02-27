@@ -1,13 +1,33 @@
 {
   "name": "beautiful.markup",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "scripts": {
     "start": "npx eleventy --input content --output docs --serve",
-    "build": "cleancss -o docs/bfmd.min.css src/bfmd.css && npx eleventy --input content --output docs"
+    "build": "cleancss -o docs/bfmd.min.css src/bfmd.css && npx eleventy --input content --output docs",
+    "release": "gh-release && npm publish"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "clean-css-cli": "^5.2.0",
     "nunjucks": "^3.2.3"
-  }
+  },
+  "description": "Classless CSS framework to create beautufiful web pages in markdown language.",
+  "main": "bfmd.min.css",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gh-release": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bndp/beautiful-markdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bndp/beautiful-markdown/issues"
+  },
+  "homepage": "https://github.com/bndp/beautiful-markdown#readme"
 }
