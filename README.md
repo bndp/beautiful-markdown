@@ -8,3 +8,6 @@ Some choices were made that were probably not intended by the creators of the la
 For more information on markdown language and static site builders, see the following resources:
 - https://www.markdownguide.org
 - https://jamstack.org
+
+
+Check it out with this [demo](https://bndp.github.io/beautiful-markup).

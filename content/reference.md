@@ -3,10 +3,10 @@ permalink: reference.html
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Reference*](/bfmd/reference)
-[*Components*](/bfmd/components)
-[*Demo*](/bfmd/demo)
-[*Source code*](/bfmd/source)
+[*Reference*](/reference)
+[*Components*](/components)
+[*Demo*](/demo)
+[*Source code*](/source)
 
 # Beautifull Markdown
 
@@ -19,7 +19,7 @@ layout: base.njk
 
 Import in your HTML:
 
-    <link rel="stylesheet" href="https://unpkg.com/bfmd/bfmd.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/bfmd.min.css" />
 
 
 ## 2. Typography

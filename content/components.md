@@ -3,10 +3,10 @@ permalink: components.html
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Reference*](/bfmd/reference)
-[*Components*](/bfmd/components)
-[*Demo*](/bfmd/demo)
-[*Source code*](/bfmd/source)
+[*Reference*](/reference)
+[*Components*](/components)
+[*Demo*](/demo)
+[*Source code*](/source)
 
 # Complex components
 
@@ -33,10 +33,10 @@ layout: base.njk
 ```
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
 [*Home*](/)
-[*Demo*](/bfmd/demo)
-[*Source code*](/bfmd/source)
-[*Reference*](/bfmd/reference)
-[*Components*](/bfmd/components)
+[*Demo*](/demo)
+[*Source code*](/source)
+[*Reference*](/reference)
+[*Components*](/components)
 [*BASE·finance*](https://base.finance)
 
 ---
@@ -46,10 +46,10 @@ layout: base.njk
 
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
 [*Home*](/)
-[*Demo*](/bfmd/demo)
-[*Source code*](/bfmd/source)
-[*Reference*](/bfmd/reference)
-[*Components*](/bfmd/components)
+[*Demo*](/demo)
+[*Source code*](/source)
+[*Reference*](/reference)
+[*Components*](/components)
 [*BASE·finance*](https://base.finance)
 
 ---
@@ -60,20 +60,20 @@ layout: base.njk
 
 ```
 > [*Home*](/)
-> [*Demo*](/bfmd/demo)
-> [*Source code*](/bfmd/source)
-> [*Reference*](/bfmd/reference)
-> [*Components*](/bfmd/components)
+> [*Demo*](/demo)
+> [*Source code*](/source)
+> [*Reference*](/reference)
+> [*Components*](/components)
 > [*BASE·finance*](https://base.finance)
 ```
 
 *Result:*
 
 > [*Home*](/)
-> [*Demo*](/bfmd/demo)
-> [*Source code*](/bfmd/source)
-> [*Reference*](/bfmd/reference)
-> [*Components*](/bfmd/components)
+> [*Demo*](/demo)
+> [*Source code*](/source)
+> [*Reference*](/reference)
+> [*Components*](/components)
 > [*BASE·finance*](https://base.finance)
 
 

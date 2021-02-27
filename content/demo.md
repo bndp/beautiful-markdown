@@ -4,24 +4,24 @@ layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
 [*Home*](/)
-[*Reference*](/bfmd/reference)
-[*Components*](/bfmd/components)
-[*Demo*](/bfmd/demo)
-[*Source code*](/bfmd/source)
+[*Reference*](/reference)
+[*Components*](/components)
+[*Demo*](/demo)
+[*Source code*](/source)
 
 ---
 
 # Beautifull Markdown - demo
 
 > [*Home*](/)
-> [*Reference*](/bfmd/reference)
-> [*Components*](/bfmd/components)
-> [*Demo*](/bfmd/demo)
-> [*Source code*](/bfmd/source)
+> [*Reference*](/reference)
+> [*Components*](/components)
+> [*Demo*](/demo)
+> [*Source code*](/source)
 
 > ##### HTML-free
 >
-> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/bfmd/source) by yourself.
+> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/source) by yourself.
 
 > ##### More info
 >
