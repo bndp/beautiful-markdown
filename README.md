@@ -34,7 +34,7 @@ Import in your HTML:
 
 Import npm package
 
-    $ npm install style.css
+    $ npm install beautiful-markdown
 
 [GitHub](/)
 

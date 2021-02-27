@@ -1,9 +1,9 @@
 {
   "name": "beautiful-markdown",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "start": "npx eleventy --input content --output docs --serve",
-    "build": "cleancss -o dist/bfmd.min.css src/bfmd.css && npx eleventy --input content --output docs",
+    "build": "cleancss -o dist/beautiful-markdown.min.css src/beautiful-markdown.css && npx eleventy --input content --output docs",
     "release": "npx gh-release && npm publish"
   },
   "devDependencies": {
@@ -12,7 +12,7 @@
     "nunjucks": "^3.2.3"
   },
   "description": "CSS stylesheet to create beautiful web pages in markdown language",
-  "main": "dist/bfmd.min.css",
+  "main": "dist/beautiful-markdown.min.css",
   "directories": {
     "doc": "docs"
   },
