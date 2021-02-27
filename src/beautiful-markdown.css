@@ -45,35 +45,33 @@ strong {
 }
 
 h1 {
-  font-size: 4.2rem;
-  font-weight: 300;
+  font-size: calc(2.0rem + 2.5vw);
   margin: 2rem 0.75rem 1.25rem 0.75rem;
 }
 
 h2 {
-  font-size: 3.28rem;
-  font-weight: 300;
+  font-size: calc(1.6rem + 1.8vw);
   margin: 1.75rem 0.75rem 1.25rem 0.75rem;
 }
 
 h3 {
-  font-size: 2.92rem;
+  font-size: calc(1.4rem + 1.4vw);
   margin: 1.5rem 0.75rem 1rem 0.75rem;
 }
 
 h4 {
-  font-size: 2.28rem;
+  font-size: calc(1.2rem + 1vw);
   margin: 1.25rem 0.75rem 0.75rem 0.75rem;
 }
 
 h5 {
-  font-size: 1.64rem;
+  font-size: calc(1.1rem + 0.6vw);
   margin: 1rem 0.75rem 0.5rem 0.75rem;
 }
 
 h6 {
-  font-size: 1.15rem;
-  margin: 2rem 0.75rem 1.25rem 0.75rem;
+  font-size: calc(1rem + 0.2vw);
+  margin: 0.75rem 0.75rem 0.25rem 0.75rem;
 }
 
 p {
