@@ -2,12 +2,12 @@
 permalink: reference.html
 layout: base.njk
 ---
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
-[*Reference*](/beautiful-markdown/reference)
-[*Components*](/beautiful-markdown/components)
-[*Demo*](/beautiful-markdown)
-[*Source code*](/beautiful-markdown/source)
+[*Reference*](reference)
+[*Components*](components)
+[*Demo*](.)
+[*Source code*](source)
 
 ---
 
@@ -55,14 +55,14 @@ My favorite personal finance manager is [BASE·finance](https://base.finance).
 *Markdown Syntax:*
 
 ```
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://base.finance)
+[![BF logo](icon-36.png "Logo")](https://base.finance)
 
 ![Tbourida Moroccan folklore fantasy by Houssain tork](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tbourida_Moroccan_folklore_fantasy.jpg)
 ```
 
 *Result:*
 
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://base.finance)
+[![BF logo](icon-36.png "Logo")](https://base.finance)
 
 ![Tbourida Moroccan folklore fantasy by Houssain tork](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tbourida_Moroccan_folklore_fantasy.jpg)
 

@@ -12,7 +12,7 @@
     "nunjucks": "^3.2.3"
   },
   "description": "CSS stylesheet to create beautiful web pages in markdown language",
-  "main": "dist/beautiful-markdown.min.css",
+  "main": "docs/beautiful-markdown.min.css",
   "directories": {
     "doc": "docs"
   },

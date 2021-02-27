@@ -2,12 +2,12 @@
 permalink: source.html
 layout: base.njk
 ---
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
-[*Reference*](/beautiful-markdown/reference)
-[*Components*](/beautiful-markdown/components)
-[*Demo*](/beautiful-markdown)
-[*Source code*](/beautiful-markdown/source)
+[*Reference*](reference)
+[*Components*](components)
+[*Demo*](.)
+[*Source code*](source)
 
 ---
 
@@ -15,26 +15,26 @@ layout: base.njk
 
 ```
 
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
-[*Reference*](/beautiful-markdown/reference)
-[*Components*](/beautiful-markdown/components)
-[*Demo*](/beautiful-markdown)
-[*Source code*](/beautiful-markdown/source)
+[*Reference*](reference)
+[*Components*](components)
+[*Demo*](.)
+[*Source code*](source)
 
 ---
 
 # Beautifull Markdown - demo
 
 > [*Home*](https://github.com/bndp/beautiful-markdown)
-> [*Reference*](/beautiful-markdown/reference)
-> [*Components*](/beautiful-markdown/components)
-> [*Demo*](/beautiful-markdown)
-> [*Source code*](/beautiful-markdown/source)
+> [*Reference*](reference)
+> [*Components*](components)
+> [*Demo*](.)
+> [*Source code*](source)
 
 > ##### HTML-free
 >
-> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/beautiful-markdown/source) by yourself.
+> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](source) by yourself.
 
 > ##### More info
 >

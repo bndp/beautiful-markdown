@@ -2,12 +2,12 @@
 permalink: components.html
 layout: base.njk
 ---
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
-[*Reference*](/beautiful-markdown/reference)
-[*Components*](/beautiful-markdown/components)
-[*Demo*](/beautiful-markdown)
-[*Source code*](/beautiful-markdown/source)
+[*Reference*](reference)
+[*Components*](components)
+[*Demo*](.)
+[*Source code*](source)
 
 ---
 
@@ -34,24 +34,24 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
-[*Reference*](/beautiful-markdown/reference)
-[*Components*](/beautiful-markdown/components)
-[*Demo*](/beautiful-markdown)
-[*Source code*](/beautiful-markdown/source)
+[*Reference*](reference)
+[*Components*](components)
+[*Demo*](.)
+[*Source code*](source)
 
 ---
 ```
 
 *Result:*
 
-[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
-[*Reference*](/beautiful-markdown/reference)
-[*Components*](/beautiful-markdown/components)
-[*Demo*](/beautiful-markdown)
-[*Source code*](/beautiful-markdown/source)
+[*Reference*](reference)
+[*Components*](components)
+[*Demo*](.)
+[*Source code*](source)
 
 ---
 
@@ -61,19 +61,19 @@ layout: base.njk
 
 ```
 > [*Home*](https://github.com/bndp/beautiful-markdown)
-> [*Reference*](/beautiful-markdown/reference)
-> [*Components*](/beautiful-markdown/components)
+> [*Reference*](reference)
+> [*Components*](components)
 > [*Demo*](/beautiful-markdown)
-> [*Source code*](/beautiful-markdown/source)
+> [*Source code*](source)
 ```
 
 *Result:*
 
 > [*Home*](https://github.com/bndp/beautiful-markdown)
-> [*Reference*](/beautiful-markdown/reference)
-> [*Components*](/beautiful-markdown/components)
+> [*Reference*](reference)
+> [*Components*](components)
 > [*Demo*](/beautiful-markdown)
-> [*Source code*](/beautiful-markdown/source)
+> [*Source code*](source)
 
 ## 4. Card
 
