@@ -24,7 +24,7 @@ layout: base.njk
 
 ---
 
-# Beautifull Markdown - demo
+# Beautifull Markdown demo
 
 > [*Home*](https://github.com/bndp/beautiful-markdown)
 > [*Reference*](reference)
@@ -109,6 +109,6 @@ See below a few beautiful picture of our friends. Click and hold to enlarge.
 > ![credit: wagwalkingweb.com](https://images.wagwalkingweb.com/media/daily_wag/behavior_guides/hero/1530413619.26/why-do-boxer-dogs-stink.jpg)
 > ![credit: wagwalkingweb.com](https://images.wagwalkingweb.com/media/daily_wag/behavior_guides/why-dogs-like-fetch/hero/Why-Dogs-Like-Fetch.jpg)
 
-Need some help? Check out our [**Forum**](/) or [**Contact us**](/)
+Need some help? Check out our [**Forum**](#) or [**Contact us**](#)
 
 ```
