@@ -26,11 +26,11 @@ layout: base.njk
 
 # Beautifull Markdown - demo
 
-[*Home*](https://github.com/bndp/beautiful-markup)
-[*Reference*](/reference.html)
-[*Components*](/components.html)
-[*Demo*](/)
-[*Source code*](/source.html)
+> [*Home*](https://github.com/bndp/beautiful-markup)
+> [*Reference*](/reference.html)
+> [*Components*](/components.html)
+> [*Demo*](/)
+> [*Source code*](/source.html)
 
 > ##### HTML-free
 >
