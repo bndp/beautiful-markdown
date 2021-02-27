@@ -7,6 +7,10 @@ Some choices were made that were probably not intended by the creators of the la
 
 Check out the [demo](https://bndp.github.io/beautiful-markup).
 
+If you are not familiar with markdown language, read the [reference guide](https://bndp.github.io/beautiful-markup/reference) for standard elements.
+
+Most importantly, see the reference guide for [advanced components](https://bndp.github.io/beautiful-markup/components).
+
 For more information on markdown language and static site builders, see the following resources:
 - https://www.markdownguide.org
 - https://jamstack.org
