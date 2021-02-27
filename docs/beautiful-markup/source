@@ -1,26 +1,25 @@
 <!doctype html>
 <html>
+  <head>
+    <title>Beautiful Markdown</title>
+    <meta charset="utf-8">
 
-<head>
-  <title>Beautiful Markdown</title>
-  <meta charset="utf-8">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="bfmd.min.css" rel="stylesheet">
+  </head>
 
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-  <link href="bfmd.min.css" rel="stylesheet">
-</head>
-
-<body>
-  <p><a href="/"><img src="https://base.finance/images/icons/icon-36.png" alt="BF logo" title="Logo"></a>
-    <a href="/"><em>Home</em></a>
-    <a href="/beautiful-markup/reference"><em>Reference</em></a>
-    <a href="/beautiful-markup/components"><em>Components</em></a>
-    <a href="/"><em>Demo</em></a>
-    <a href="/beautiful-markup/source"><em>Source code</em></a></p>
-  <hr>
-  <h1>Beautifull Markdown - demo source code</h1>
-  <pre><code>
-[![BF logo](https://base.finance/images/icons/icon-36.png &quot;Logo&quot;)](/)
+  <body>
+  <p><a href="https://github.com/bndp/beautiful-markup"><img src="https://base.finance/images/icons/icon-36.png" alt="BF logo" title="Logo"></a>
+<a href="/"><em>Home</em></a>
+<a href="/beautiful-markup/reference"><em>Reference</em></a>
+<a href="/beautiful-markup/components"><em>Components</em></a>
+<a href="/"><em>Demo</em></a>
+<a href="/beautiful-markup/source"><em>Source code</em></a></p>
+<hr>
+<h1>Beautifull Markdown - demo source code</h1>
+<pre><code>
+[![BF logo](https://base.finance/images/icons/icon-36.png &quot;Logo&quot;)](https://github.com/bndp/beautiful-markup)
 [*Home*](/)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
@@ -118,6 +117,6 @@ Need some help? Check out our [**Forum**](/) or [**Contact us**](/)
 
 </code></pre>
 
-</body>
+  </body>
 
 </html>

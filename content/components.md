@@ -1,13 +1,13 @@
 ---
-permalink: components.html
+permalink: beautiful-markup/components
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](https://github.com/bndp/beautiful-markup)
-[*Reference*](/reference.html)
-[*Components*](/components.html)
+[*Home*](/)
+[*Reference*](/beautiful-markup/reference)
+[*Components*](/beautiful-markup/components)
 [*Demo*](/)
-[*Source code*](/source.html)
+[*Source code*](/beautiful-markup/source)
 
 ---
 
@@ -35,11 +35,11 @@ layout: base.njk
 
 ```
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](https://github.com/bndp/beautiful-markup)
-[*Reference*](/reference.html)
-[*Components*](/components.html)
+[*Home*](/)
+[*Reference*](/beautiful-markup/reference)
+[*Components*](/beautiful-markup/components)
 [*Demo*](/)
-[*Source code*](/source.html)
+[*Source code*](/beautiful-markup/source)
 
 ---
 ```
@@ -47,11 +47,11 @@ layout: base.njk
 *Result:*
 
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](https://github.com/bndp/beautiful-markup)
-[*Reference*](/reference.html)
-[*Components*](/components.html)
+[*Home*](/)
+[*Reference*](/beautiful-markup/reference)
+[*Components*](/beautiful-markup/components)
 [*Demo*](/)
-[*Source code*](/source.html)
+[*Source code*](/beautiful-markup/source)
 
 ---
 
@@ -60,20 +60,20 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-> [*Home*](https://github.com/bndp/beautiful-markup)
-> [*Reference*](/reference.html)
-> [*Components*](/components.html)
+> [*Home*](/)
+> [*Reference*](/beautiful-markup/reference)
+> [*Components*](/beautiful-markup/components)
 > [*Demo*](/)
-> [*Source code*](/source.html)
+> [*Source code*](/beautiful-markup/source)
 ```
 
 *Result:*
 
-> [*Home*](https://github.com/bndp/beautiful-markup)
-> [*Reference*](/reference.html)
-> [*Components*](/components.html)
+> [*Home*](/)
+> [*Reference*](/beautiful-markup/reference)
+> [*Components*](/beautiful-markup/components)
 > [*Demo*](/)
-> [*Source code*](/source.html)
+> [*Source code*](/beautiful-markup/source)
 
 ## 4. Card
 

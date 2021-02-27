@@ -1,13 +1,13 @@
 ---
-permalink: source.html
+permalink: beautiful-markup/source
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](https://github.com/bndp/beautiful-markup)
-[*Reference*](/reference.html)
-[*Components*](/components.html)
+[*Home*](/)
+[*Reference*](/beautiful-markup/reference)
+[*Components*](/beautiful-markup/components)
 [*Demo*](/)
-[*Source code*](/source.html)
+[*Source code*](/beautiful-markup/source)
 
 ---
 
@@ -16,25 +16,25 @@ layout: base.njk
 ```
 
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](https://github.com/bndp/beautiful-markup)
-[*Reference*](/reference.html)
-[*Components*](/components.html)
+[*Home*](/)
+[*Reference*](/beautiful-markup/reference)
+[*Components*](/beautiful-markup/components)
 [*Demo*](/)
-[*Source code*](/source.html)
+[*Source code*](/beautiful-markup/source)
 
 ---
 
 # Beautifull Markdown - demo
 
-> [*Home*](https://github.com/bndp/beautiful-markup)
-> [*Reference*](/reference.html)
-> [*Components*](/components.html)
+> [*Home*](/)
+> [*Reference*](/beautiful-markup/reference)
+> [*Components*](/beautiful-markup/components)
 > [*Demo*](/)
-> [*Source code*](/source.html)
+> [*Source code*](/beautiful-markup/source)
 
 > ##### HTML-free
 >
-> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/source.html) by yourself.
+> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/beautiful-markup/source) by yourself.
 
 > ##### More info
 >
