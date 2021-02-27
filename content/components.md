@@ -3,7 +3,7 @@ permalink: components.html
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
-[*Home*](/beautiful-markdown)
+[*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)
 [*Demo*](/beautiful-markdown)
@@ -35,7 +35,7 @@ layout: base.njk
 
 ```
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
-[*Home*](/beautiful-markdown)
+[*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)
 [*Demo*](/beautiful-markdown)
@@ -47,7 +47,7 @@ layout: base.njk
 *Result:*
 
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
-[*Home*](/beautiful-markdown)
+[*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)
 [*Demo*](/beautiful-markdown)
@@ -60,7 +60,7 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-> [*Home*](/beautiful-markdown)
+> [*Home*](https://github.com/bndp/beautiful-markdown)
 > [*Reference*](/beautiful-markdown/reference)
 > [*Components*](/beautiful-markdown/components)
 > [*Demo*](/beautiful-markdown)
@@ -69,7 +69,7 @@ layout: base.njk
 
 *Result:*
 
-> [*Home*](/beautiful-markdown)
+> [*Home*](https://github.com/bndp/beautiful-markdown)
 > [*Reference*](/beautiful-markdown/reference)
 > [*Components*](/beautiful-markdown/components)
 > [*Demo*](/beautiful-markdown)
