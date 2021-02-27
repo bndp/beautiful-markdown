@@ -5,11 +5,11 @@ Or at least not as much as you probably think. This classless CSS library is the
 
 Some choices were made that were probably not intended by the creators of the language (like a different use of blockquotes as well as bold and italics styles). There are certainly plenty of alternative options  and potetial improvements out there, so send me your feedback!
 
-Check out the [demo](https://bndp.github.io/beautiful-markup).
+Check out the [demo](https://bndp.github.io/beautiful-markdown).
 
-If you are not familiar with markdown language, read the [reference guide](https://bndp.github.io/beautiful-markup/reference) for standard elements.
+If you are not familiar with markdown language, read the [reference guide](https://bndp.github.io/beautiful-markdown/reference) for standard elements.
 
-Most importantly, see the reference guide for [advanced components](https://bndp.github.io/beautiful-markup/components).
+Most importantly, see the reference guide for [advanced components](https://bndp.github.io/beautiful-markdown/components).
 
 For more information on markdown language and static site builders, see the following resources:
 - https://www.markdownguide.org

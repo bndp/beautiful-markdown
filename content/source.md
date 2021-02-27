@@ -2,12 +2,12 @@
 permalink: source.html
 layout: base.njk
 ---
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/beautiful-markup)
-[*Reference*](/beautiful-markup/reference)
-[*Components*](/beautiful-markup/components)
-[*Demo*](/beautiful-markup)
-[*Source code*](/beautiful-markup/source)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[*Home*](/beautiful-markdown)
+[*Reference*](/beautiful-markdown/reference)
+[*Components*](/beautiful-markdown/components)
+[*Demo*](/beautiful-markdown)
+[*Source code*](/beautiful-markdown/source)
 
 ---
 
@@ -15,26 +15,26 @@ layout: base.njk
 
 ```
 
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/beautiful-markup)
-[*Reference*](/beautiful-markup/reference)
-[*Components*](/beautiful-markup/components)
-[*Demo*](/beautiful-markup)
-[*Source code*](/beautiful-markup/source)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[*Home*](/beautiful-markdown)
+[*Reference*](/beautiful-markdown/reference)
+[*Components*](/beautiful-markdown/components)
+[*Demo*](/beautiful-markdown)
+[*Source code*](/beautiful-markdown/source)
 
 ---
 
 # Beautifull Markdown - demo
 
-> [*Home*](/beautiful-markup)
-> [*Reference*](/beautiful-markup/reference)
-> [*Components*](/beautiful-markup/components)
-> [*Demo*](/beautiful-markup)
-> [*Source code*](/beautiful-markup/source)
+> [*Home*](/beautiful-markdown)
+> [*Reference*](/beautiful-markdown/reference)
+> [*Components*](/beautiful-markdown/components)
+> [*Demo*](/beautiful-markdown)
+> [*Source code*](/beautiful-markdown/source)
 
 > ##### HTML-free
 >
-> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/beautiful-markup/source) by yourself.
+> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/beautiful-markdown/source) by yourself.
 
 > ##### More info
 >
