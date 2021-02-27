@@ -17,7 +17,8 @@ Some choices were made that were probably not intended by the creators of the la
 - Classless stylesheet designed for markdown language
 - Advanced components: buttons, menus, cards, gallery...
 - Material Design theme
-- Very light: only 3kb
+- Progressive Enhancement: looks good on mobiles as well as PC
+- Lightweight: only 3kb
 
 
 ## Demo
