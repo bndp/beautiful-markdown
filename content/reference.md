@@ -2,17 +2,20 @@
 permalink: reference.html
 layout: base.njk
 ---
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Reference*](/reference)
-[*Components*](/components)
-[*Demo*](/demo)
-[*Source code*](/source)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
-# Beautifull Markdown
+---
+
+# Beautifull Markdown reference guide
 
 #### Minimal (3kb) Material Design CSS library for Markdown.
 
-[GitHub](https://github.com/bfmd)
+[GitHub](https://github.com/bndp/beautiful-markup)
 
 
 ## 1. Usage
@@ -64,12 +67,14 @@ My favorite personal finance manager is [BASE·finance](https://base.finance).
 
 ```
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
+
 ![Tbourida Moroccan folklore fantasy by Houssain tork](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tbourida_Moroccan_folklore_fantasy.jpg)
 ```
 
 *Result:*
 
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
+
 ![Tbourida Moroccan folklore fantasy by Houssain tork](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tbourida_Moroccan_folklore_fantasy.jpg)
 
 

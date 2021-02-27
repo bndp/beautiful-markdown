@@ -2,43 +2,39 @@
 permalink: source.html
 layout: base.njk
 ---
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Reference*](/reference)
-[*Components*](/components)
-[*Demo*](/demo)
-[*Source code*](/source)
-
-```
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Home*](/)
-[*Reference*](/reference)
-[*Components*](/components)
-[*Demo*](/demo)
-[*Source code*](/source)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
 ---
 
-# Beautifull Markdown
+# Beautifull Markdown - demo source code
 
-> [*Home*](/)
-> [*Reference*](/reference)
-> [*Components*](/components)
-> [*Demo*](/demo)
-> [*Source code*](/source)
+```
 
-> ##### Why?
->
-> Markdown is super easy to use for blogging, but it's also super dull, with a limited number of elements to choose from and no fancy html styles, right? Wrong!
->
-> This classless CSS library is the result of a 3 day experiment to create awesome web pages using only Markdown.
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
-> ##### How?
->
-> Certain choices were made which were probably not intended by the creators of the language (like the different use of blockquotes, horizontal rules, bold and italics)! There are certainly plenty of alternative options out there, so send me your feedback!
+---
+
+# Beautifull Markdown - demo
+
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
 > ##### HTML-free
 >
-> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/source) by yourself.
+> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/source.html) by yourself.
 
 > ##### More info
 >
@@ -114,4 +110,5 @@ See below a few beautiful picture of our friends. Click and hold to enlarge.
 > ![credit: wagwalkingweb.com](https://images.wagwalkingweb.com/media/daily_wag/behavior_guides/why-dogs-like-fetch/hero/Why-Dogs-Like-Fetch.jpg)
 
 Need some help? Check out our [**Forum**](/) or [**Contact us**](/)
+
 ```

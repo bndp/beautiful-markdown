@@ -2,26 +2,26 @@
 permalink: index.html
 layout: base.njk
 ---
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Home*](/)
-[*Reference*](/reference)
-[*Components*](/components)
-[*Demo*](/demo)
-[*Source code*](/source)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
 ---
 
 # Beautifull Markdown - demo
 
-> [*Home*](/)
-> [*Reference*](/reference)
-> [*Components*](/components)
-> [*Demo*](/demo)
-> [*Source code*](/source)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
 > ##### HTML-free
 >
-> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/source) by yourself.
+> Yes, this page has been written completely in Markdown language. No HTML. See the [source code](/source.html) by yourself.
 
 > ##### More info
 >

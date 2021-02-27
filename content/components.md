@@ -2,13 +2,16 @@
 permalink: components.html
 layout: base.njk
 ---
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Reference*](/reference)
-[*Components*](/components)
-[*Demo*](/demo)
-[*Source code*](/source)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
-# Complex components
+---
+
+# Complex components components guide
 
 
 ## 1. Button
@@ -31,26 +34,24 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Home*](/)
-[*Demo*](/demo)
-[*Source code*](/source)
-[*Reference*](/reference)
-[*Components*](/components)
-[*BASE·finance*](https://base.finance)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
 ---
 ```
 
 *Result:*
 
-[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
-[*Home*](/)
-[*Demo*](/demo)
-[*Source code*](/source)
-[*Reference*](/reference)
-[*Components*](/components)
-[*BASE·finance*](https://base.finance)
+[![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
+[*Home*](https://github.com/bndp/beautiful-markup)
+[*Reference*](/reference.html)
+[*Components*](/components.html)
+[*Demo*](/)
+[*Source code*](/source.html)
 
 ---
 
@@ -59,23 +60,20 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-> [*Home*](/)
-> [*Demo*](/demo)
-> [*Source code*](/source)
-> [*Reference*](/reference)
-> [*Components*](/components)
-> [*BASE·finance*](https://base.finance)
+> [*Home*](https://github.com/bndp/beautiful-markup)
+> [*Reference*](/reference.html)
+> [*Components*](/components.html)
+> [*Demo*](/)
+> [*Source code*](/source.html)
 ```
 
 *Result:*
 
-> [*Home*](/)
-> [*Demo*](/demo)
-> [*Source code*](/source)
-> [*Reference*](/reference)
-> [*Components*](/components)
-> [*BASE·finance*](https://base.finance)
-
+> [*Home*](https://github.com/bndp/beautiful-markup)
+> [*Reference*](/reference.html)
+> [*Components*](/components.html)
+> [*Demo*](/)
+> [*Source code*](/source.html)
 
 ## 4. Card
 
