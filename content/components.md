@@ -2,7 +2,7 @@
 permalink: components.html
 layout: base.njk
 ---
-[![BF logo](/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)
@@ -34,7 +34,7 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-[![BF logo](/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)
@@ -46,7 +46,7 @@ layout: base.njk
 
 *Result:*
 
-[![BF logo](/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)

@@ -2,7 +2,7 @@
 permalink: index.html
 layout: base.njk
 ---
-[![BF logo](/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
+[![BF logo](/beautiful-markdown/icon-36.png "Logo")](https://github.com/bndp/beautiful-markdown)
 [*Home*](https://github.com/bndp/beautiful-markdown)
 [*Reference*](/beautiful-markdown/reference)
 [*Components*](/beautiful-markdown/components)
