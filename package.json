@@ -1,0 +1,13 @@
+{
+  "name": "beautiful.markup",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx eleventy --input content --serve",
+    "build": "cleancss -o _site/bfmd.min.css src/bfmd.css && npx eleventy --input content"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "clean-css-cli": "^5.2.0",
+    "nunjucks": "^3.2.3"
+  }
+}
