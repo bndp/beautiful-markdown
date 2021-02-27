@@ -1,6 +1,6 @@
 {
   "name": "beautiful-markdown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "start": "npx eleventy --input content --output docs --serve",
     "build": "cleancss -o dist/bfmd.min.css src/bfmd.css && npx eleventy --input content --output docs",
