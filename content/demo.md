@@ -1,5 +1,5 @@
 ---
-permalink: demo.html
+permalink: index.html
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://base.finance)
@@ -11,23 +11,13 @@ layout: base.njk
 
 ---
 
-# Beautifull Markdown
+# Beautifull Markdown - demo
 
 > [*Home*](/)
 > [*Reference*](/bfmd/reference)
 > [*Components*](/bfmd/components)
 > [*Demo*](/bfmd/demo)
 > [*Source code*](/bfmd/source)
-
-> ##### Why?
->
-> Markdown is super easy to use for blogging, but it's also super dull, with a limited number of elements to choose from and no fancy html styles, right? Wrong!
->
-> This classless CSS library is the result of a 3 day experiment to create awesome web pages using only Markdown.
-
-> ##### How?
->
-> Certain choices were made which were probably not intended by the creators of the language (like the different use of blockquotes, horizontal rules, bold and italics)! There are certainly plenty of alternative options out there, so send me your feedback!
 
 > ##### HTML-free
 >
