@@ -2,8 +2,8 @@
   "name": "beautiful.markup",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx eleventy --input content --output doc --serve",
-    "build": "cleancss -o doc/bfmd.min.css src/bfmd.css && npx eleventy --input content --output doc"
+    "start": "npx eleventy --input content --output docs --serve",
+    "build": "cleancss -o docs/bfmd.min.css src/bfmd.css && npx eleventy --input content --output docs"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
