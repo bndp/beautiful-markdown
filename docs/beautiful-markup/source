@@ -11,29 +11,29 @@
 
   <body>
   <p><a href="https://github.com/bndp/beautiful-markup"><img src="https://base.finance/images/icons/icon-36.png" alt="BF logo" title="Logo"></a>
-<a href="/"><em>Home</em></a>
+<a href="/beautiful-markup"><em>Home</em></a>
 <a href="/beautiful-markup/reference"><em>Reference</em></a>
 <a href="/beautiful-markup/components"><em>Components</em></a>
-<a href="/"><em>Demo</em></a>
+<a href="/beautiful-markup"><em>Demo</em></a>
 <a href="/beautiful-markup/source"><em>Source code</em></a></p>
 <hr>
-<h1>Beautifull Markdown - demo source code</h1>
+<h1>Demo source code</h1>
 <pre><code>
 [![BF logo](https://base.finance/images/icons/icon-36.png &quot;Logo&quot;)](https://github.com/bndp/beautiful-markup)
-[*Home*](/)
+[*Home*](/beautiful-markup)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
-[*Demo*](/)
+[*Demo*](/beautiful-markup)
 [*Source code*](/beautiful-markup/source)
 
 ---
 
 # Beautifull Markdown - demo
 
-&gt; [*Home*](/)
+&gt; [*Home*](/beautiful-markup)
 &gt; [*Reference*](/beautiful-markup/reference)
 &gt; [*Components*](/beautiful-markup/components)
-&gt; [*Demo*](/)
+&gt; [*Demo*](/beautiful-markup)
 &gt; [*Source code*](/beautiful-markup/source)
 
 &gt; ##### HTML-free

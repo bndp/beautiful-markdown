@@ -3,20 +3,20 @@ permalink: index.html
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/)
+[*Home*](/beautiful-markup)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
-[*Demo*](/)
+[*Demo*](/beautiful-markup)
 [*Source code*](/beautiful-markup/source)
 
 ---
 
-# Beautifull Markdown - demo
+# Beautifull Markdown demo
 
-> [*Home*](/)
+> [*Home*](/beautiful-markup)
 > [*Reference*](/beautiful-markup/reference)
 > [*Components*](/beautiful-markup/components)
-> [*Demo*](/)
+> [*Demo*](/beautiful-markup)
 > [*Source code*](/beautiful-markup/source)
 
 > ##### HTML-free

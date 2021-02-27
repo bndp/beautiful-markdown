@@ -3,15 +3,15 @@ permalink: beautiful-markup/reference
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/)
+[*Home*](/beautiful-markup)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
-[*Demo*](/)
+[*Demo*](/beautiful-markup)
 [*Source code*](/beautiful-markup/source)
 
 ---
 
-# Beautifull Markdown reference guide
+# Reference guide
 
 #### Minimal (3kb) Material Design CSS library for Markdown.
 

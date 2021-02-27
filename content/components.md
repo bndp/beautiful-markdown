@@ -3,15 +3,15 @@ permalink: beautiful-markup/components
 layout: base.njk
 ---
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/)
+[*Home*](/beautiful-markup)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
-[*Demo*](/)
+[*Demo*](/beautiful-markup)
 [*Source code*](/beautiful-markup/source)
 
 ---
 
-# Complex components components guide
+# Complex components
 
 
 ## 1. Button
@@ -35,10 +35,10 @@ layout: base.njk
 
 ```
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/)
+[*Home*](/beautiful-markup)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
-[*Demo*](/)
+[*Demo*](/beautiful-markup)
 [*Source code*](/beautiful-markup/source)
 
 ---
@@ -47,10 +47,10 @@ layout: base.njk
 *Result:*
 
 [![BF logo](https://base.finance/images/icons/icon-36.png "Logo")](https://github.com/bndp/beautiful-markup)
-[*Home*](/)
+[*Home*](/beautiful-markup)
 [*Reference*](/beautiful-markup/reference)
 [*Components*](/beautiful-markup/components)
-[*Demo*](/)
+[*Demo*](/beautiful-markup)
 [*Source code*](/beautiful-markup/source)
 
 ---
@@ -60,19 +60,19 @@ layout: base.njk
 *Markdown Syntax:*
 
 ```
-> [*Home*](/)
+> [*Home*](/beautiful-markup)
 > [*Reference*](/beautiful-markup/reference)
 > [*Components*](/beautiful-markup/components)
-> [*Demo*](/)
+> [*Demo*](/beautiful-markup)
 > [*Source code*](/beautiful-markup/source)
 ```
 
 *Result:*
 
-> [*Home*](/)
+> [*Home*](/beautiful-markup)
 > [*Reference*](/beautiful-markup/reference)
 > [*Components*](/beautiful-markup/components)
-> [*Demo*](/)
+> [*Demo*](/beautiful-markup)
 > [*Source code*](/beautiful-markup/source)
 
 ## 4. Card
