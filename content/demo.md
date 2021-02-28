@@ -67,13 +67,7 @@ More info on [*Wikipedia*](https://en.wikipedia.org/wiki/Dog)
 > [*Read*](https://en.wikipedia.org/wiki/German_Shepherd)
 > [*More*](https://en.wikipedia.org/wiki/German_Shepherd#Description)
 
-More info about our wonderful friends.
-
-> ##### More info
->
-> Subscribe to our newsletter and stay up-to-date.
->
-> [**Subscribe**](#)
+##### More info about our wonderful friends:
 
 | Breed              | Trait     | Number         |
 | ---                | ---       | ---:           |
@@ -83,7 +77,13 @@ More info about our wonderful friends.
 
 > ![Yorkshire Terrier](https://live.staticflickr.com/2129/2451023350_9ed36c934e_b.jpg)
 
-See below a few beautiful picture of our friends. Click and hold to enlarge.
+> ##### More info
+>
+> Subscribe to our newsletter and stay up-to-date.
+>
+> [**Subscribe**](#)
+
+See below a few beautiful pictures of our friends. Click and hold to enlarge.
 
 > ![credit: barkpost.com](https://barkpost.com/wp-content/uploads/2014/06/DOG-2-superJumbo.jpg)
 > ![credit: petpaw.com](https://www.petpaw.com.au/wp-content/uploads/2013/02/Dachshund1.jpg)
