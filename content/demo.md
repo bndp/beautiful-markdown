@@ -88,7 +88,6 @@ See below a few beautiful pictures of our friends. Click and hold to enlarge.
 > ![credit: barkpost.com](https://barkpost.com/wp-content/uploads/2014/06/DOG-2-superJumbo.jpg)
 > ![credit: petpaw.com](https://www.petpaw.com.au/wp-content/uploads/2013/02/Dachshund1.jpg)
 > ![credit: petinsurancequotes.com](https://www.petinsurancequotes.com/app/uploads/2019/08/greyhound-dogs.jpg)
-> ![credit: nationalgeographic.com](https://www.nationalgeographic.com/content/dam/news/2017/09/09/booktalk-dogs-feelings/booktalk-dogs-feelings-NationalGeographic_1433912.ngsversion.1504880274221.adapt.1900.1.jpg)
 > ![credit: funpeep.com](https://funpeep.com/wp-content/uploads/2015/11/Cute-Pictures-of-Dogs-Pomeranian-Puppy.jpg)
 > ![credit: cutenessoverflow.com](https://www.cutenessoverflow.com/wp-content/uploads/2014/06/adorable-dogs-8.jpg)
 > ![credit: zastavki.com](https://www.zastavki.com/pictures/1920x1200/2012/Animals_Dogs_Little_puppy_033758_.jpg)
