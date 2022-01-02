@@ -50,35 +50,36 @@ h1 {
 }
 
 h2 {
-  font-size: calc(1.6rem + 1.8vw);
-  margin: 1.75rem 0.75rem 1.25rem 0.75rem;
-}
-
-h3 {
   font-size: calc(1.4rem + 1.4vw);
   margin: 1.5rem 0.75rem 1rem 0.75rem;
 }
 
-h4 {
+h3 {
   font-size: calc(1.2rem + 1vw);
   margin: 1.25rem 0.75rem 0.75rem 0.75rem;
 }
 
-h5 {
+h4 {
   font-size: calc(1.1rem + 0.6vw);
   margin: 1rem 0.75rem 0.5rem 0.75rem;
 }
 
-h6 {
+h5 {
   font-size: calc(1rem + 0.2vw);
   margin: 0.75rem 0.75rem 0.25rem 0.75rem;
+}
+
+h6 {
+  font-size: calc(1rem);
+  margin: 0.25rem 0 0 0 0;
 }
 
 p {
   margin: 0.75rem;
 }
 
-p, a {
+p,
+a {
   font-size: 1rem;
   font-weight: 400;
 }
@@ -89,16 +90,20 @@ a {
   color: var(--bf-primary);
 }
 
-a:active, a:hover {
+a:active,
+a:hover {
   outline-width: 0;
   outline: 0;
 }
 
-a:active, a:focus, a:hover {
+a:active,
+a:focus,
+a:hover {
   text-decoration: underline;
 }
 
-ul, ol {
+ul,
+ol {
   padding: 0 2em;
 }
 
@@ -111,7 +116,8 @@ strong {
   font-weight: 600;
 }
 
-code, pre {
+code,
+pre {
   font-family: monospace;
   font-size: 90%;
   background-color: rgba(0, 0, 0, 0.04);
@@ -133,15 +139,18 @@ pre code {
   background: transparent;
 }
 
-pre code::before, pre code::after {
+pre code::before,
+pre code::after {
   content: normal;
 }
 
-code::before, code::after {
+code::before,
+code::after {
   content: '\00a0';
 }
 
-a>em, a>strong {
+a>em,
+a>strong {
   font-size: 0.875rem;
   font-style: normal;
   font-weight: 500;
@@ -190,7 +199,9 @@ blockquote {
   vertical-align: top;
 }
 
-blockquote>p:not(:only-child), blockquote>h5, blockquote>h6 {
+blockquote>p:not(:only-child),
+blockquote>h5,
+blockquote>h6 {
   width: 300px;
   width: var(--bf-card-width);
 }
@@ -248,7 +259,8 @@ table td {
   border-color: var(--bf-line);
 }
 
-table th, table td {
+table th,
+table td {
   text-align: left;
   padding: 0.9rem 1.25rem;
 }
